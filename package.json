@@ -1,0 +1,22 @@
+{
+  "name": "telemedi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Izabela2001/TeleMedi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Izabela2001/TeleMedi/issues"
+  },
+  "homepage": "https://github.com/Izabela2001/TeleMedi#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
